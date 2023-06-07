@@ -110,7 +110,8 @@ Execute the program
 ```
 # OUTPUT
 
-![tt](https://github.com/22009058/timetable/assets/121917232/ec4e34d1-c577-46b8-98db-6a8946d5f284)
+![tt](https://github.com/22009058/timetable/assets/121917232/158fa937-d9fd-4b42-b529-8748c90d7662)
+
 
 # HTMLVALIDATOR
 
